@@ -19,10 +19,6 @@
 时隔多年登录github，发现竟然有人看这个代码，当时上传到github确实是想研究一下，但是因为一些不可抗力因素没有研究。
 
 
-网盘链接如下
-
-
-链接:http://pan.baidu.com/share/link?shareid=420876&uk=2938990155 密码:qb18
 
 
 ==此项目不在维护，good luck！
